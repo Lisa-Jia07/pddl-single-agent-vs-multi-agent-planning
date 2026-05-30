@@ -1,0 +1,8 @@
+(moveforward g00 g01 east)
+(moveforward g01 g02 east)
+(moveforward g02 g03 east)
+(rotate east south)
+(moveforward g03 g13 south)
+(moveforward g13 g23 south)
+(rotate south west)
+(moveforward g23 g22 west)
